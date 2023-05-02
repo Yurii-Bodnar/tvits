@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tweets/static/css/main.6f65dba4.css",
-    "main.js": "/tweets/static/js/main.3d5bfbdc.js",
-    "static/js/156.011a9744.chunk.js": "/tweets/static/js/156.011a9744.chunk.js",
-    "static/js/504.8ed41c48.chunk.js": "/tweets/static/js/504.8ed41c48.chunk.js",
-    "static/js/817.6c31a109.chunk.js": "/tweets/static/js/817.6c31a109.chunk.js",
-    "static/media/picture.png": "/tweets/static/media/picture.032662a2a907475127d7.png",
-    "static/media/Boy.png": "/tweets/static/media/Boy.32adc3d02c082c795336.png",
-    "static/media/logo-goIT.svg": "/tweets/static/media/logo-goIT.6f8dd48759bf0b4c39e717f5b28274ee.svg",
-    "index.html": "/tweets/index.html",
-    "main.6f65dba4.css.map": "/tweets/static/css/main.6f65dba4.css.map",
-    "main.3d5bfbdc.js.map": "/tweets/static/js/main.3d5bfbdc.js.map",
-    "156.011a9744.chunk.js.map": "/tweets/static/js/156.011a9744.chunk.js.map",
-    "504.8ed41c48.chunk.js.map": "/tweets/static/js/504.8ed41c48.chunk.js.map",
-    "817.6c31a109.chunk.js.map": "/tweets/static/js/817.6c31a109.chunk.js.map"
+    "main.css": "/twets/static/css/main.6f65dba4.css",
+    "main.js": "/twets/static/js/main.e30126d0.js",
+    "static/js/156.011a9744.chunk.js": "/twets/static/js/156.011a9744.chunk.js",
+    "static/js/504.8ed41c48.chunk.js": "/twets/static/js/504.8ed41c48.chunk.js",
+    "static/js/817.6c31a109.chunk.js": "/twets/static/js/817.6c31a109.chunk.js",
+    "static/media/picture.png": "/twets/static/media/picture.032662a2a907475127d7.png",
+    "static/media/Boy.png": "/twets/static/media/Boy.32adc3d02c082c795336.png",
+    "static/media/logo-goIT.svg": "/twets/static/media/logo-goIT.6f8dd48759bf0b4c39e717f5b28274ee.svg",
+    "index.html": "/twets/index.html",
+    "main.6f65dba4.css.map": "/twets/static/css/main.6f65dba4.css.map",
+    "main.e30126d0.js.map": "/twets/static/js/main.e30126d0.js.map",
+    "156.011a9744.chunk.js.map": "/twets/static/js/156.011a9744.chunk.js.map",
+    "504.8ed41c48.chunk.js.map": "/twets/static/js/504.8ed41c48.chunk.js.map",
+    "817.6c31a109.chunk.js.map": "/twets/static/js/817.6c31a109.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f65dba4.css",
-    "static/js/main.3d5bfbdc.js"
+    "static/js/main.e30126d0.js"
   ]
 }
