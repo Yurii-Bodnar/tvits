@@ -2,7 +2,7 @@
   "name": "twits",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yurii-Bodnar.github.io/tweets/",
+  "homepage": "https://yurii-Bodnar.github.io/twets/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
