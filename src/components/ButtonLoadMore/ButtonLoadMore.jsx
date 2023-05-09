@@ -1,9 +1,13 @@
+import { Box, Button } from './ButtonLoadMore.styled';
+
 const ButtonLoadMore = ({ setPageParams, pageParams }) => {
   return (
-    <button type="button" onClick={() => setPageParams(pageParams + 1)}>
-      {' '}
-      Load more
-    </button>
+    <Box>
+      <Button type="button" onClick={() => setPageParams(pageParams + 1)}>
+        {' '}
+        Load more
+      </Button>
+    </Box>
   );
 };
 

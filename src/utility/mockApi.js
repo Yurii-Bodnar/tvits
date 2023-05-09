@@ -19,10 +19,11 @@ export const getHeroData = async page => {
     throw error;
   }
 };
-export const updateDataFollowing = async (userId, userFollowers) => {
+export const updateDataFollowing = async (userId, userFollowers, follow) => {
   try {
     const { data } = await axios.put(`/api/tweets/tweets/${userId}`, {
       followers: userFollowers,
+      isFollow: follow,
     });
     return data;
   } catch (error) {

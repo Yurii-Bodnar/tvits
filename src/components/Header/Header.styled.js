@@ -19,7 +19,19 @@ export const Link = styled(NavLink)`
   line-height: 1.2;
   text-transform: uppercase;
   color: ${p => p.theme.colors.white};
+  padding: 5px;
+  transition: 250ms;
+  &:hover {
+    background: rgb(77 44 105);
+    color: ${p => p.theme.colors.white};
+    border-radius: 10px;
+    border: none;
+  }
   &.active {
-    border-bottom: 2px solid ${p => p.theme.colors.white};
+    outline: 2px;
+    color: rgb(77 44 155);
+    border-radius: 10px;
+    background: ${p => p.theme.colors.white};
+    border: none;
   }
 `;

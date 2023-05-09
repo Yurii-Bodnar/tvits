@@ -1,8 +1,8 @@
 {
-  "name": "twits",
+  "name": "tweets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yurii-bodnar.github.io/twits/",
+  "homepage": "https://yurii-bodnar.github.io/tweets/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -11,6 +11,7 @@
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-loader-spinner": "^5.3.4",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.10",

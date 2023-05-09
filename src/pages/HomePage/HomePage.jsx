@@ -1,11 +1,24 @@
-import { Container, Title } from './HomePage.styled';
+import { Container, Text, Title } from './HomePage.styled';
 
 const HomePage = () => {
   return (
     <Container>
-      <Title>
-        Hi, here you can find out what famous people of our planet tweet
-      </Title>
+      <Title>Tweets</Title>
+      <div>
+        <Text>
+          This is a simple app, manage tweets, subscribe to celebrity pages
+        </Text>
+        <Text>
+          Created at:
+          <a
+            href="https://github.com/Yurii-Bodnar"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Yurii Bodnar
+          </a>
+        </Text>
+      </div>
     </Container>
   );
 };
